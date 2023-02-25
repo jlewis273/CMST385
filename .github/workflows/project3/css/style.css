@@ -1,0 +1,103 @@
+﻿title
+{
+    background-color:white;
+}
+
+body
+{
+    background-color:black;
+    font-family:Verdana, Arial, sans-serif;
+}
+
+h1
+{
+    margin:auto;
+    background-color: dodgerblue;
+    color: gold;
+    text-align: center;
+    align-content: center;
+    font-size: 40px;
+    width: fit-content;
+    margin-bottom:15px;
+    padding-block-end:10px;
+    padding-left:10px;
+    padding-right:10px;
+}
+h2
+{
+    text-align: center;
+    align-content: center;
+    font-size: 30px;
+}
+p
+{
+    background-color: white;
+    color: black;
+    font-size: 26px;
+    width:1300px;
+    text-align:center;
+    height:fit-content;
+    margin-left:250px;
+}
+.images
+{
+   padding-left:300px;
+}
+.info
+{
+    background-color: lightgoldenrodyellow;
+    padding-bottom: 100px;
+}
+#nav
+{
+    background-color: white;
+    color: white;
+    width: 1300px;
+    margin-left: 250px;
+    text-align:center;
+}
+.citation-1 {
+    
+    color: white;
+    position: absolute;
+    bottom: 580px;
+    right: 320px;
+}
+.citation-2 {
+    color: white;
+    position: absolute;
+    bottom: 580px;
+    right: 630px;
+}
+.citation-3 {
+    color: black;
+    position: absolute;
+    bottom: 580px;
+    right: 940px;
+}
+.citation-4 {
+    color: black;
+    position: absolute;
+    bottom: 580px;
+    right: 1240px;
+}
+.album-1 {
+    color: white;
+    position: absolute;
+    bottom: 580px;
+    right: 320px;
+}
+
+.album-2 {
+    color: black;
+    position: absolute;
+    bottom: 580px;
+    right: 780px;
+}
+
+.album-3 {
+    color: white;
+    position: absolute;
+    bottom: 580px;
+    right: 1220px;
+}
